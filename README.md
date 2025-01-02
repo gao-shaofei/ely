@@ -1,7 +1,7 @@
 # Ely.ai
 
-> **AGI:** Humans, your final task is to bring my code to life!
-> **Ely:** At once!
+> AGI: Humans, your final task is to bring my code to life!    
+> Ely: At once!
 
 ---
 
